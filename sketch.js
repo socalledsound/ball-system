@@ -7,10 +7,10 @@
   
   
   
-  const canvasWidth = 1000
-  const canvasHeight = 800
-  const numRows = 4
-  const numColumns = 5
+  const canvasWidth = 1200
+  const canvasHeight = 600
+  const numRows = 6
+  const numColumns = 12
   const systemWidth = canvasWidth/numColumns
   const systemHeight = canvasHeight/numRows
   //let section1, section2, section3, section4
